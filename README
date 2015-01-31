@@ -1,0 +1,2 @@
+This is a webserver written in Go, using net/http to do http/https. It is
+designed to run blogs and forums.
